@@ -1,0 +1,18 @@
+.qwet{
+    background-color: rgb(255, 120, 120);
+    font-style: verdana, DejaVu Sans, sans-serif;
+}
+#text{
+    color:rgb(57, 57, 255) ;
+    font: size 36px; ;
+}
+.qwet.one {
+    background-color: rgb(255, 120, 120);
+    font-style: verdana, 'DejaVu Sans', sans-serif;
+    font-size: 24px; ;
+}
+#fer{
+    background-color: rgb(34, 182, 34);
+    font-size: 24px;
+    font-weight: 700;
+}
